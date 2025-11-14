@@ -18,6 +18,8 @@
 
 模式实例：Rank[0/1] 10/04/2025 02:29:58 INFO loss_tracker.py:141 | Epoch[33/NA] Step[424] GlobalStep[72001/99999]: loss_noise_mse[0.0000]	loss_fk_mse[0.0046]	loss_depth[0.0129]	total_loss[0.0176]
 
+基于ChatGPT生成
+
 ## LossCurveWithoutName.m
 基础功能
 
